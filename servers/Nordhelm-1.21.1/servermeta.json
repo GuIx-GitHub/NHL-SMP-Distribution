@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/nebulaworkspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.2",
+    "name": "Nordhelm SMP",
+    "description": "Thème médiéval multi faction PvPvE.",
+    "icon": "https://cdn.discordapp.com/attachments/1129862458551578674/1478461095747387421/Nordhelm_SMP.png?ex=69a87bb1&is=69a72a31&hm=82918a6ff55c35647941bb9726c0e653f5e7a87c2a24cb6c18df1e112fc9145f&",
+    "address": "91.197.6.218:27752",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.18.4"
+  },
+  "untrackedFiles": []
+}
