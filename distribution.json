@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "Nordhelm-1.21.1",
+      "id": "Nordhelm-1.21.11",
       "name": "Nordhelm SMP",
       "description": "Thème médiéval multi faction PvPvE.",
       "icon": "https://cdn.discordapp.com/attachments/1129862458551578674/1478461095747387421/Nordhelm_SMP.png?ex=69a87bb1&is=69a72a31&hm=82918a6ff55c35647941bb9726c0e653f5e7a87c2a24cb6c18df1e112fc9145f&",
       "version": "1.0.2",
       "address": "91.197.6.218:27752",
-      "minecraftVersion": "1.21.1",
+      "minecraftVersion": "1.21.11",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -30,17 +30,17 @@
           "artifact": {
             "size": 1944518,
             "MD5": "56c00fa22e0452e8567be1feae73c3b9",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/repo/lib/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
           },
           "subModules": [
             {
-              "id": "1.21.1-fabric-0.18.4",
+              "id": "1.21.11-fabric-0.18.4",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2847,
-                "MD5": "2b1689d9c25314935b3d82e20a0b4249",
-                "url": "http://localhost:8080/repo/versions/1.21.1-fabric-0.18.4/1.21.1-fabric-0.18.4.json"
+                "size": 2850,
+                "MD5": "490ee66a60e1da871b74df181e24c398",
+                "url": "https://guix-github.github.io/NHL-SMP-Distribution/repo/versions/1.21.11-fabric-0.18.4/1.21.11-fabric-0.18.4.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "https://guix-github.github.io/NHL-SMP-Distribution/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "https://guix-github.github.io/NHL-SMP-Distribution/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "https://guix-github.github.io/NHL-SMP-Distribution/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "https://guix-github.github.io/NHL-SMP-Distribution/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "https://guix-github.github.io/NHL-SMP-Distribution/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -100,17 +100,17 @@
               "artifact": {
                 "size": 1505269,
                 "MD5": "d27dcb910788a0bd4bea72942a714093",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
+                "url": "https://guix-github.github.io/NHL-SMP-Distribution/repo/lib/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
               }
             },
             {
-              "id": "net.fabricmc:intermediary:1.21.1",
+              "id": "net.fabricmc:intermediary:1.21.11",
               "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 657725,
-                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "size": 797685,
+                "MD5": "54a87ea75e373bc39b2d36df201231ea",
+                "url": "https://guix-github.github.io/NHL-SMP-Distribution/repo/lib/net/fabricmc/intermediary/1.21.11/intermediary-1.21.11.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 353996,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/3d-armor-0.9.3-mod.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/3d-armor-0.9.3-mod.jar",
             "MD5": "d396f75cf6ee8fe7878134af6ca685f0"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 84821614,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/AmbientSounds_FABRIC_v6.3.5_mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/AmbientSounds_FABRIC_v6.3.5_mc1.21.11.jar",
             "MD5": "74e1d8065ebe800761812329cf1398ef"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 70838,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/animatica-0.6.1+1.21.5.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/animatica-0.6.1+1.21.5.jar",
             "MD5": "1e3bf1a8841f5ca84a88325b68e5cee8"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 180107,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/appleskin-fabric-mc1.21.11-3.0.8.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/appleskin-fabric-mc1.21.11-3.0.8.jar",
             "MD5": "e725606e8b0ae1c83ade7cfd0aea9e73"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 254575,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/Armor_Hud-3.2-1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/Armor_Hud-3.2-1.21.11.jar",
             "MD5": "a616a39cfe859a323b65dda105aaed28"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 256854,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/ArmorStatues-v21.11.1-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/ArmorStatues-v21.11.1-mc1.21.11-Fabric.jar",
             "MD5": "6f23971c765d9ad181edf4b6a14c8973"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 861882,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/balm-fabric-1.21.11-21.11.6.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/balm-fabric-1.21.11-21.11.6.jar",
             "MD5": "3dc41c45238624149b26f98863ca2895"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21805,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/better-ping-display-fabric-1.21.11-1.2.0.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/better-ping-display-fabric-1.21.11-1.2.0.jar",
             "MD5": "00348941b9176356f510eec9a46c0a07"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 103197,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/BetterAdvancements-Fabric-1.21.11-0.4.8.51.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/BetterAdvancements-Fabric-1.21.11-0.4.8.51.jar",
             "MD5": "3e0f57f4ac447368fa2cdcd67a3cbcc4"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1714229,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/BetterF3-17.0.0-Fabric-1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/BetterF3-17.0.0-Fabric-1.21.11.jar",
             "MD5": "6514c20b73422437c9662484b07ad207"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 87734,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/BetterGrassify-1.8.3+fabric.1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/BetterGrassify-1.8.3+fabric.1.21.11.jar",
             "MD5": "b1ca5d17303864ec9b56e6a949e3d5c5"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21069,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/bettermounthud-1.2.6.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/bettermounthud-1.2.6.jar",
             "MD5": "da173c6527e57f0b7a1db5a6fab42324"
           }
         },
@@ -241,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80534,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/capes-1.5.10+1.21.11-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/capes-1.5.10+1.21.11-fabric.jar",
             "MD5": "7cd0202711ca6aece099176126a87194"
           }
         },
@@ -251,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 92750,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/chat_heads-1.2.1-fabric-1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/chat_heads-1.2.1-fabric-1.21.11.jar",
             "MD5": "45d8503701de058a01930e7778b3fe7a"
           }
         },
@@ -261,7 +261,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 380840,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/chatanimation-fabric-1.21.11-1.1.3.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/chatanimation-fabric-1.21.11-1.1.3.jar",
             "MD5": "30c44866f0fada967e289ca663fb4f42"
           }
         },
@@ -271,7 +271,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 355288,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/Chunky-Fabric-1.4.55.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/Chunky-Fabric-1.4.55.jar",
             "MD5": "76c7e0e9b95ff37820729a2653018627"
           }
         },
@@ -281,7 +281,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1148427,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/cloth-config-21.11.153-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/cloth-config-21.11.153-fabric.jar",
             "MD5": "9de770889c2b19445f57f881e4f7d6f8"
           }
         },
@@ -291,7 +291,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20355,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/Clumps-fabric-1.21.11-29.0.0.1.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/Clumps-fabric-1.21.11-29.0.0.1.jar",
             "MD5": "ed4cfd8170d5eb8da20f424c8f1bd2cb"
           }
         },
@@ -301,7 +301,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 963324,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/collective-1.21.11-8.13.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/collective-1.21.11-8.13.jar",
             "MD5": "5e9a02186ad8dc50f8a968f7245f1a9a"
           }
         },
@@ -311,7 +311,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 954688,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/comforts-fabric-14.0.1+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/comforts-fabric-14.0.1+1.21.11.jar",
             "MD5": "fa2cf43f4e692e73f9d3967d0fb7d174"
           }
         },
@@ -321,7 +321,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 87690,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/ConfigManager-fabric-1.21.x-1.1.1.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/ConfigManager-fabric-1.21.x-1.1.1.jar",
             "MD5": "e1476b96f045d43125171793f05213b8"
           }
         },
@@ -331,7 +331,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 997125,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/continuity-3.0.1-beta.1+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/continuity-3.0.1-beta.1+1.21.11.jar",
             "MD5": "d0011d547cfb5428b25071a2b518a776"
           }
         },
@@ -341,7 +341,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7998531,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/controlify-3.0.0-beta.3+1.21.11-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/controlify-3.0.0-beta.3+1.21.11-fabric.jar",
             "MD5": "bf9a326efef00abd4fbf4b7a3c096526"
           }
         },
@@ -351,7 +351,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1271180,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar",
             "MD5": "c03fb37361a84b88d5b973d6ef900993"
           }
         },
@@ -361,7 +361,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20226630,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/create-fly-1.21.11-6.0.9-5.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/create-fly-1.21.11-6.0.9-5.jar",
             "MD5": "4500ee5691efaf02b1c6d6b97854e22f"
           }
         },
@@ -371,7 +371,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1392373,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
             "MD5": "371a86b3ab457ab58f03b80492d36d13"
           }
         },
@@ -381,7 +381,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 554213,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/cristellib-fabric-1.21.11-3.0.4.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/cristellib-fabric-1.21.11-3.0.4.jar",
             "MD5": "d2cc066de6c8266acde7cf95aac002c7"
           }
         },
@@ -391,7 +391,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 25500,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/CutThrough-v21.11.0-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/CutThrough-v21.11.0-mc1.21.11-Fabric.jar",
             "MD5": "69088a7fa6dacb3b3a03a3381cd99222"
           }
         },
@@ -401,7 +401,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 78535,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/cwb-fabric-3.0.0-build.14+mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/cwb-fabric-3.0.0-build.14+mc1.21.11.jar",
             "MD5": "3c015b71b56c81ced1fc4a90f0563238"
           }
         },
@@ -411,7 +411,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 376651,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/debugify-1.21.11+1.0.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/debugify-1.21.11+1.0.jar",
             "MD5": "1a51de7cae7a55e4be565044813618c3"
           }
         },
@@ -421,7 +421,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 122865,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/DiagonalFences-v21.11.1-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/DiagonalFences-v21.11.1-mc1.21.11-Fabric.jar",
             "MD5": "4d62807526b21f30d45bce21afa63c89"
           }
         },
@@ -431,7 +431,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 38916351,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/dungeons-and-taverns-v5.1.0.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/dungeons-and-taverns-v5.1.0.jar",
             "MD5": "3a20438fbaabe8d92524bc88193656f9"
           }
         },
@@ -441,7 +441,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20261,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/durabilitytooltip-1.1.6-fabric-mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/durabilitytooltip-1.1.6-fabric-mc1.21.11.jar",
             "MD5": "15dc692642d8100299c053d9160ba706"
           }
         },
@@ -451,7 +451,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 218843,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/dynamic-fps-3.11.4+minecraft-1.21.11-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/dynamic-fps-3.11.4+minecraft-1.21.11-fabric.jar",
             "MD5": "8c02954e10cd274137d8cf1fe61715d8"
           }
         },
@@ -461,7 +461,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 648461,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/e4mc-fabric-6.0.6.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/e4mc-fabric-6.0.6.jar",
             "MD5": "b410cb49b1a4deeeaba6aa9f298e4550"
           }
         },
@@ -471,7 +471,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 131649,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/EasyAnvils-v21.11.0-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/EasyAnvils-v21.11.0-mc1.21.11-Fabric.jar",
             "MD5": "e2993df06ec3435492654c6f86a356af"
           }
         },
@@ -481,7 +481,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 108337,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/EasyMagic-v21.11.0-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/EasyMagic-v21.11.0-mc1.21.11-Fabric.jar",
             "MD5": "be31b0250f453d81ebee67b4c3cdd3b3"
           }
         },
@@ -491,7 +491,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 42331,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/elytra_accessory-1.3.1-fabric+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/elytra_accessory-1.3.1-fabric+1.21.11.jar",
             "MD5": "f093ef5079a94da1cdc5abf3cc5f9fc4"
           }
         },
@@ -501,7 +501,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 147434,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/elytra_chestplate-2.6.1.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/elytra_chestplate-2.6.1.jar",
             "MD5": "2ffbbe5b372a83deec46ec6b6248af4a"
           }
         },
@@ -511,7 +511,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 82178,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/enchdesc-fabric-1.21.11-21.11.1.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/enchdesc-fabric-1.21.11-21.11.1.jar",
             "MD5": "696ed4850b551616adbd6284b2db3436"
           }
         },
@@ -521,7 +521,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 511306,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/entity_model_features_1.21.11-fabric-3.0.12.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/entity_model_features_1.21.11-fabric-3.0.12.jar",
             "MD5": "e87f5797fb1b9bfb0d67bd0675222530"
           }
         },
@@ -531,7 +531,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 727129,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/entity_texture_features_1.21.11-fabric-7.0.9.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/entity_texture_features_1.21.11-fabric-7.0.9.jar",
             "MD5": "c55230f0915587587dad4ef900faf0b3"
           }
         },
@@ -541,7 +541,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1571825,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/entityculling-fabric-1.9.5-mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/entityculling-fabric-1.9.5-mc1.21.11.jar",
             "MD5": "116a6dd3e9318eba93ecf58a51caf248"
           }
         },
@@ -551,7 +551,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2412693,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/fabric-api-0.141.3+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/fabric-api-0.141.3+1.21.11.jar",
             "MD5": "f7e723a1649302a0a6923022a7596f1a"
           }
         },
@@ -561,7 +561,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7642216,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
             "MD5": "5a82c29fbbfdd3acbb9da9229ae0e32d"
           }
         },
@@ -571,7 +571,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49098,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/fabrishot-1.16.4.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/fabrishot-1.16.4.jar",
             "MD5": "ce5ba4cbd021c39d99208f5d170a2e44"
           }
         },
@@ -581,7 +581,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 181268,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/fallingleaves-2.0.3+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/fallingleaves-2.0.3+1.21.11.jar",
             "MD5": "f60fcec180500d8014ba7294b472e207"
           }
         },
@@ -591,7 +591,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 10375,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar",
             "MD5": "8fb376a8b030bd9cd5f9505793a2d3ea"
           }
         },
@@ -601,7 +601,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 61123,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/fastquit-3.1.3+mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/fastquit-3.1.3+mc1.21.11.jar",
             "MD5": "10a2e3d019e3517239b03aad83b347b1"
           }
         },
@@ -611,7 +611,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80138,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/ferritecore-8.2.0-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/ferritecore-8.2.0-fabric.jar",
             "MD5": "3b5c6f5fe571ce945303fc37d5f4c15c"
           }
         },
@@ -621,7 +621,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 598009,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
             "MD5": "625e3619f1bd646b203b17717db2200a"
           }
         },
@@ -631,7 +631,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8562,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/glasssync-1.1.0.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/glasssync-1.1.0.jar",
             "MD5": "91b0d8f91ab355f56f5f5235d6119a9c"
           }
         },
@@ -641,7 +641,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 34473,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/Gravestone-Fabric-1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/Gravestone-Fabric-1.21.11.jar",
             "MD5": "bc846a00a33195b3964b79f537d8f4fd"
           }
         },
@@ -651,7 +651,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2235826,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/IllagerInvasion-v21.11.1-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/IllagerInvasion-v21.11.1-mc1.21.11-Fabric.jar",
             "MD5": "b599a2d3ac4e899fbeb28ba0118fb91a"
           }
         },
@@ -661,7 +661,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 310445,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
             "MD5": "033dba6be467d96932d11ad7d171a829"
           }
         },
@@ -671,7 +671,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4145689,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/Incendium_1.21.x_v5.4.10.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/Incendium_1.21.x_v5.4.10.jar",
             "MD5": "d7420c93640d922f9e52911bbce4fe1c"
           }
         },
@@ -681,7 +681,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2805791,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/iris-fabric-1.10.6+mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/iris-fabric-1.10.6+mc1.21.11.jar",
             "MD5": "1fad457f15178da18d7b2309b23d64a0"
           }
         },
@@ -691,7 +691,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 945286,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/Jade-1.21.11-Fabric-21.1.2.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/Jade-1.21.11-Fabric-21.1.2.jar",
             "MD5": "def5700675916bb42f576abd0bedd327"
           }
         },
@@ -701,7 +701,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1520445,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/jei-1.21.11-fabric-27.4.0.15.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/jei-1.21.11-fabric-27.4.0.15.jar",
             "MD5": "92dfe2c690b0ad92a814e34fb5892a72"
           }
         },
@@ -711,7 +711,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2144865,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/lambdynamiclights-4.9.1+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/lambdynamiclights-4.9.1+1.21.11.jar",
             "MD5": "35d4fa10a0e9678d60022e73ae9fe814"
           }
         },
@@ -721,7 +721,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 76765,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/language-reload-1.7.5+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/language-reload-1.7.5+1.21.11.jar",
             "MD5": "90cb4a8be8e1078d8e312eab57660727"
           }
         },
@@ -731,7 +731,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 41406,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/LeavesBeGone-v21.11.0-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/LeavesBeGone-v21.11.0-mc1.21.11-Fabric.jar",
             "MD5": "324b1a9ac0c675844302b0394f60d6e3"
           }
         },
@@ -741,7 +741,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 91694,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/lighty-fabric-3.1.3+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/lighty-fabric-3.1.3+1.21.11.jar",
             "MD5": "f1ee22120e081401a4d82c3c1040144c"
           }
         },
@@ -751,7 +751,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1810983,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/litematica-fabric-1.21.11-0.26.0.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/litematica-fabric-1.21.11-0.26.0.jar",
             "MD5": "a608a8806fa86ee35f2382426f513b97"
           }
         },
@@ -761,7 +761,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 888874,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/lithium-fabric-0.21.3+mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/lithium-fabric-0.21.3+mc1.21.11.jar",
             "MD5": "e5bc4e4a2eb62b11df6456ee7b4588d6"
           }
         },
@@ -771,7 +771,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 16640,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/main-menu-credits-1.2.0.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/main-menu-credits-1.2.0.jar",
             "MD5": "fa6c077f11eee6b737df0c69f7bf609a"
           }
         },
@@ -781,7 +781,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1877364,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/malilib-fabric-1.21.11-0.27.6.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/malilib-fabric-1.21.11-0.27.6.jar",
             "MD5": "c52f768bde26f102afdd79ec872c4ff8"
           }
         },
@@ -791,7 +791,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 36039,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/mixintrace-1.1.1+1.17.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/mixintrace-1.1.1+1.17.jar",
             "MD5": "25673336ece740d8127ae7525bc0cd4f"
           }
         },
@@ -801,7 +801,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1115052,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/modmenu-17.0.0-beta.2.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/modmenu-17.0.0-beta.2.jar",
             "MD5": "876eca2ec6fa50d36b4bd9320ec680a1"
           }
         },
@@ -811,7 +811,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3573,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/morechathistory-1.3.1.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/morechathistory-1.3.1.jar",
             "MD5": "cd040faa8025103baf571a3ce15d4a8a"
           }
         },
@@ -821,7 +821,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 340975,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/moreculling-fabric-1.21.11-1.6.2.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/moreculling-fabric-1.21.11-1.6.2.jar",
             "MD5": "8be2f9cf05efc60bbee7d41b4e598097"
           }
         },
@@ -831,7 +831,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 75618,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/MouseTweaks-fabric-mc1.21.11-2.30.jar",
             "MD5": "44f747eddb6318544459f02bfbebf752"
           }
         },
@@ -841,7 +841,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 94773,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/mru-1.0.26+edge+1.21.11-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/mru-1.0.26+edge+1.21.11-fabric.jar",
             "MD5": "6a00be219772408466bf35dbbd8d1372"
           }
         },
@@ -851,7 +851,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 213274,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/netherportalfix-fabric-1.21.11-21.11.2.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/netherportalfix-fabric-1.21.11-21.11.2.jar",
             "MD5": "835550eaa23d5009ca33f93f774934e7"
           }
         },
@@ -861,7 +861,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 245492,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
             "MD5": "782dd7d86817179fdc7a364f78b87b66"
           }
         },
@@ -871,7 +871,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1932296,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/notenoughanimations-fabric-1.11.3-mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/notenoughanimations-fabric-1.11.3-mc1.21.11.jar",
             "MD5": "96a87eb3975c6a856b00f9f8053e61df"
           }
         },
@@ -881,7 +881,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 167899,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/ohmega-1.5.11-fabric+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/ohmega-1.5.11-fabric+1.21.11.jar",
             "MD5": "7461e65f00ca3c719dedcfd698454cb1"
           }
         },
@@ -891,7 +891,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 611520,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/optigui-2.3.0-beta.9+1.21.9.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/optigui-2.3.0-beta.9+1.21.9.jar",
             "MD5": "8f3f022f67077cc4051459293eab6a58"
           }
         },
@@ -901,7 +901,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 80039,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/paginatedadvancements-2.8.0+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/paginatedadvancements-2.8.0+1.21.11.jar",
             "MD5": "b74223b6cc870abcfcd712a0b70c1da0"
           }
         },
@@ -911,7 +911,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1153316,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/PlayerAnimationLibFabric-1.1.6+mc.1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/PlayerAnimationLibFabric-1.1.6+mc.1.21.11.jar",
             "MD5": "22472956d013d585b4eb6e1ac2d9ebe3"
           }
         },
@@ -921,7 +921,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1779553,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/polytone-1.21.11-5.4.13-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/polytone-1.21.11-5.4.13-fabric.jar",
             "MD5": "e897d2fd87288286662deb6f29b2fce9"
           }
         },
@@ -931,7 +931,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5753935,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/PresenceFootsteps-1.12.3+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/PresenceFootsteps-1.12.3+1.21.11.jar",
             "MD5": "305a9f5a5e133e466dc4140d3aa2a4d3"
           }
         },
@@ -941,7 +941,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 87236,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/prickle-fabric-1.21.11-21.11.1.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/prickle-fabric-1.21.11-21.11.1.jar",
             "MD5": "347805fd58381814f5e9a011230f2b5a"
           }
         },
@@ -951,7 +951,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 141225,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/puzzle-fabric-2.3.0+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/puzzle-fabric-2.3.0+1.21.11.jar",
             "MD5": "aebfc7993199aa51001856f83d6e3eb4"
           }
         },
@@ -961,7 +961,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1122576,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/PuzzlesLib-v21.11.11-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/PuzzlesLib-v21.11.11-mc1.21.11-Fabric.jar",
             "MD5": "982cbb044f7bb0e350f1e5071c759696"
           }
         },
@@ -971,7 +971,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 372419,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/radio-2.1+1.21.11.fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/radio-2.1+1.21.11.fabric.jar",
             "MD5": "d55e5f80df103a4f80ffa531e17b2294"
           }
         },
@@ -981,7 +981,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 104577,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
             "MD5": "e27a13afb9a61f57af114e0f93fa8727"
           }
         },
@@ -991,7 +991,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 198379,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/rrlsFabric-5.1.15+mc.1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/rrlsFabric-5.1.15+mc.1.21.11.jar",
             "MD5": "b0f1caaca547f9c35925246641e21ddd"
           }
         },
@@ -1001,7 +1001,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 387858,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/shulkerboxtooltip-fabric-5.2.15+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/shulkerboxtooltip-fabric-5.2.15+1.21.11.jar",
             "MD5": "dbcd96eae63b872a0c800bc542c77a55"
           }
         },
@@ -1011,7 +1011,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1964676,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/skinlayers3d-fabric-1.10.2-mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/skinlayers3d-fabric-1.10.2-mc1.21.11.jar",
             "MD5": "ac380a66e4f37663713ee1d50d48a94d"
           }
         },
@@ -1021,7 +1021,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 424187,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/skyboxify-2.6+1.21.11-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/skyboxify-2.6+1.21.11-fabric.jar",
             "MD5": "1b73a17d3478e516c94da64b799e481e"
           }
         },
@@ -1031,7 +1031,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 394219,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/sodium-extra-fabric-0.8.3+mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/sodium-extra-fabric-0.8.3+mc1.21.11.jar",
             "MD5": "6d9e005c52ed09fe681330408f05815c"
           }
         },
@@ -1041,7 +1041,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1869752,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/sodium-fabric-0.8.6+mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/sodium-fabric-0.8.6+mc1.21.11.jar",
             "MD5": "4044f71541bdadabef0cb720a9ecc589"
           }
         },
@@ -1051,7 +1051,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 63459,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/sodium-shadowy-path-blocks-fabric-6.0.0.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/sodium-shadowy-path-blocks-fabric-6.0.0.jar",
             "MD5": "169621fbf2990a068477c62bcfa1dfb7"
           }
         },
@@ -1061,7 +1061,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 203479,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
             "MD5": "25f7f6aa1930a9f9520fc17375313266"
           }
         },
@@ -1071,7 +1071,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8134500,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/sounds-2.4.23+edge+1.21.11-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/sounds-2.4.23+edge+1.21.11-fabric.jar",
             "MD5": "938a707291028939496281b988c7d8cb"
           }
         },
@@ -1081,7 +1081,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 205836,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/supermartijn642configlib-1.1.8-fabric-mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/supermartijn642configlib-1.1.8-fabric-mc1.21.11.jar",
             "MD5": "8828caa78ebea8f6e9450da1f0d50229"
           }
         },
@@ -1091,7 +1091,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3509100,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/t_and_t-fabric-neoforge-1.13.8.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/t_and_t-fabric-neoforge-1.13.8.jar",
             "MD5": "0b411952b27a44ff89dfc02ea21d51d4"
           }
         },
@@ -1101,7 +1101,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2878202,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/Terralith_1.21.x_v2.5.14.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/Terralith_1.21.x_v2.5.14.jar",
             "MD5": "d0f774ee2cb8099b9ca10d7098744f42"
           }
         },
@@ -1111,7 +1111,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 509043,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/vcinteraction-fabric-1.21.11-1.0.8.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/vcinteraction-fabric-1.21.11-1.0.8.jar",
             "MD5": "48bc20bcbe5fc7efedb5919fecaa7c26"
           }
         },
@@ -1121,7 +1121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 65380,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/VisualWorkbench-v21.11.1-mc1.21.11-Fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/VisualWorkbench-v21.11.1-mc1.21.11-Fabric.jar",
             "MD5": "28a4c60f0a66191bab9c04bb34604605"
           }
         },
@@ -1131,7 +1131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5564624,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/voicechat-fabric-1.21.11-2.6.12.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/voicechat-fabric-1.21.11-2.6.12.jar",
             "MD5": "e3fc73bbbabc144e264eab41a6bd3cd1"
           }
         },
@@ -1141,7 +1141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 29268,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/voicechat-names-0.1.5.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/voicechat-names-0.1.5.jar",
             "MD5": "61416c4cc8c10372c486a249182ade44"
           }
         },
@@ -1151,7 +1151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1839658,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/waveycapes-fabric-1.8.2-mc1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/waveycapes-fabric-1.8.2-mc1.21.11.jar",
             "MD5": "03bdcefc8636f203630f89cf2e2c5220"
           }
         },
@@ -1161,7 +1161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2151166,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/xaerominimap-fabric-1.21.11-25.3.10.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/xaerominimap-fabric-1.21.11-25.3.10.jar",
             "MD5": "c74fd7631ac37d94a80a0d2d196a28f9"
           }
         },
@@ -1171,7 +1171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 18846,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/xaeros-map-server-utils-1.1.0.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/xaeros-map-server-utils-1.1.0.jar",
             "MD5": "7e5d279cb63ac00df7ac56fd79c57825"
           }
         },
@@ -1181,7 +1181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1434362,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/xaeroworldmap-fabric-1.21.11-1.40.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/xaeroworldmap-fabric-1.21.11-1.40.11.jar",
             "MD5": "713d131a03abaf8ff3f40729e87a4add"
           }
         },
@@ -1191,7 +1191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1126948,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
             "MD5": "0de1337147953ff71854bfd4ce874629"
           }
         },
@@ -1201,7 +1201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 873443,
-            "url": "http://localhost:8080/servers/Nordhelm-1.21.1/fabricmods/required/zoomify-2.15.2+1.21.11.jar",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/zoomify-2.15.2+1.21.11.jar",
             "MD5": "60bb5705290ef18a774e75fcf2fadbfc"
           }
         }
