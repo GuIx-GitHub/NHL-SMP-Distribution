@@ -1303,6 +1303,28 @@
             "path": "config/iris.properties",
             "url": "https://guix-github.github.io/NHL-SMP-Distribution/configs/iris.properties"
           }
+        },
+        {
+          "id": "nordhelm:config:servers",
+          "name": "servers",
+          "type": "file",
+          "artifact": {
+            "size": 100,
+            "MD5": "METTRE_MD5_DU_IRIS_PROPERTIES_ICI",
+            "path": "config/servers.dat",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/configs/servers.dat"
+          }
+        },
+        {
+          "id": "nordhelm:config:servers",
+          "name": "servers",
+          "type": "file",
+          "artifact": {
+            "size": 100,
+            "MD5": "METTRE_MD5_DU_IRIS_PROPERTIES_ICI",
+            "path": "config/servers.dat_old",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/configs/servers.dat_old"
+          }
         }
       ]
     }
