@@ -1204,6 +1204,50 @@
             "url": "https://guix-github.github.io/NHL-SMP-Distribution/servers/Nordhelm-1.21.11/fabricmods/required/zoomify-2.15.2+1.21.11.jar",
             "MD5": "60bb5705290ef18a774e75fcf2fadbfc"
           }
+        },
+        {
+          "id": "nordhelm:resourcepack:v1",
+          "name": "Pack de Texture Par Défaut",
+          "type": "file",
+          "artifact": {
+            "size": 1000000,
+            "MD5": "METTRE_MD5_DU_PACK_ICI",
+            "path": "resourcepacks/MonPack.zip",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/files/MonPack.zip"
+          }
+        },
+        {
+          "id": "nordhelm:shaderpack:v1",
+          "name": "Shaders Par Défaut",
+          "type": "file",
+          "artifact": {
+            "size": 5000000,
+            "MD5": "METTRE_MD5_DU_SHADER_ICI",
+            "path": "shaderpacks/MonShader.zip",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/files/MonShader.zip"
+          }
+        },
+        {
+          "id": "nordhelm:config:options",
+          "name": "Activation Pack Texture",
+          "type": "file",
+          "artifact": {
+            "size": 200,
+            "MD5": "METTRE_MD5_DU_OPTIONS_TXT_ICI",
+            "path": "options.txt",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/options.txt"
+          }
+        },
+        {
+          "id": "nordhelm:config:iris",
+          "name": "Activation Shaders",
+          "type": "file",
+          "artifact": {
+            "size": 100,
+            "MD5": "METTRE_MD5_DU_IRIS_PROPERTIES_ICI",
+            "path": "config/iris.properties",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/configs/iris.properties"
+          }
         }
       ]
     }
