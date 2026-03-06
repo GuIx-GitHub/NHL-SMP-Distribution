@@ -1207,24 +1207,24 @@
         },
         {
           "id": "nordhelm:resourcepack:v1",
-          "name": "Pack de Texture Par Défaut",
+          "name": "Unique Dark - Lite - 1.20.2-1.21.x",
           "type": "file",
           "artifact": {
             "size": 1000000,
             "MD5": "METTRE_MD5_DU_PACK_ICI",
-            "path": "resourcepacks/MonPack.zip",
-            "url": "https://guix-github.github.io/NHL-SMP-Distribution/files/MonPack.zip"
+            "path": "resourcepacks/Unique Dark - Lite - 1.20.2-1.21.x.zip",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/resourcepacks/Unique Dark - Lite - 1.20.2-1.21.x.zip"
           }
         },
         {
           "id": "nordhelm:shaderpack:v1",
-          "name": "Shaders Par Défaut",
+          "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit)",
           "type": "file",
           "artifact": {
             "size": 5000000,
             "MD5": "METTRE_MD5_DU_SHADER_ICI",
-            "path": "shaderpacks/MonShader.zip",
-            "url": "https://guix-github.github.io/NHL-SMP-Distribution/files/MonShader.zip"
+            "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
           }
         },
         {
