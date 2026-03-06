@@ -1217,6 +1217,61 @@
           }
         },
         {
+          "id": "nordhelm:resourcepack:v1",
+          "name": "Chat Reporting Helper",
+          "type": "file",
+          "artifact": {
+            "size": 1000000,
+            "MD5": "METTRE_MD5_DU_PACK_ICI",
+            "path": "resourcepacks/Chat Reporting Helper.zip",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/resourcepacks/Chat Reporting Helper.zip"
+          }
+        },
+        {
+          "id": "nordhelm:resourcepack:v1",
+          "name": "DetailedAnimationsReworked -1.21.10 - 1.21.11 v15",
+          "type": "file",
+          "artifact": {
+            "size": 1000000,
+            "MD5": "METTRE_MD5_DU_PACK_ICI",
+            "path": "resourcepacks/DetailedAnimationsReworked -1.21.10 - 1.21.11 v15.zip",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/resourcepacks/DetailedAnimationsReworked -1.21.10 - 1.21.11 v15.zip"
+          }
+        },
+        {
+          "id": "nordhelm:resourcepack:v1",
+          "name": "FreshAnimations_v1.10.4",
+          "type": "file",
+          "artifact": {
+            "size": 1000000,
+            "MD5": "METTRE_MD5_DU_PACK_ICI",
+            "path": "resourcepacks/FreshAnimations_v1.10.4.zip",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/resourcepacks/FreshAnimations_v1.10.4.zip"
+          }
+        },
+        {
+          "id": "nordhelm:resourcepack:v1",
+          "name": "Mod Menu Helper",
+          "type": "file",
+          "artifact": {
+            "size": 1000000,
+            "MD5": "METTRE_MD5_DU_PACK_ICI",
+            "path": "resourcepacks/Mod Menu Helper.zip",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/resourcepacks/Mod Menu Helper.zip"
+          }
+        },
+        {
+          "id": "nordhelm:resourcepack:v1",
+          "name": "SodiumTranslations",
+          "type": "file",
+          "artifact": {
+            "size": 1000000,
+            "MD5": "METTRE_MD5_DU_PACK_ICI",
+            "path": "resourcepacks/SodiumTranslations.zip",
+            "url": "https://guix-github.github.io/NHL-SMP-Distribution/resourcepacks/SodiumTranslations.zip"
+          }
+        },
+        {
           "id": "nordhelm:shaderpack:v1",
           "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit)",
           "type": "file",
